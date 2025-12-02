@@ -1,4 +1,4 @@
-##TutorMap – Mobile Crowd-Sensing App for Finding and Rating Private Tutors
+TutorMap – Mobile Crowd-Sensing App for Finding and Rating Private Tutors
 
 A Kotlin-based mobile application built with Jetpack Compose that helps users discover nearby private tutors and small educational centers.
 Using real-time location tracking and Firebase synchronization, the app displays all registered tutors on an interactive map, along with their attributes such as subject, rating, and description.
